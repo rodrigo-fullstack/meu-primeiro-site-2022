@@ -13,4 +13,8 @@ Aqui se iniciou a minha jornada em programação web! Esse foi o meu primeiro si
 ### CSS
 
 * Cores
+* Transform
+* Padding
+* Margin
+* Animações
 * 
